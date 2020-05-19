@@ -4,3 +4,4 @@ add from command line
 add from command line1
 add2
 add from command line3
+add from command line4
